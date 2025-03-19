@@ -1,5 +1,12 @@
 # React + TypeScript + Vite
 
+# Weather Dashboard App
+
+	1) Use "npm install" command to install the packages
+	2) Created a react Application using Vite ,React & Typescript  
+	3) Packages used :  Tailwind css, Shadcn UI & Components,  Fontawesome for the icons
+  4) Axios for API calls
+  
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
